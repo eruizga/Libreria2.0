@@ -1,0 +1,16 @@
+.header-content-item {
+      padding-bottom: 10px;
+      padding-left: 50px;
+      padding-right: 50px;
+}
+
+.frase-book q {
+      quotes: "\201C" "\201D" "\2018" "\2019";
+      font-weight: bold;
+      font-size: 20px;
+}
+
+.frase-book q .d-d {
+      font-weight: normal;
+      font-size: var(--bs-body-font-size);
+}

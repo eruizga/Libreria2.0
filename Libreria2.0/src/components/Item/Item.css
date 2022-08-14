@@ -1,0 +1,38 @@
+.item {
+      margin: auto;
+      width: 250px;
+      margin-bottom: 10px;
+}
+
+.item img {
+      width: 150px;
+      height: 220px;
+      border: 1px ridge #001c43;
+}
+
+.item div.card {
+      border: 1px solid #9da3ab;
+      cursor: pointer;
+}
+
+.detalle {
+      margin-top: 10px;
+}
+
+.item div.card-footer {
+      color: #001c43;
+      background-color: rgb(240 240 238 / 98%);
+}
+
+.item div.card-header {
+      color: #001c43;
+      background-color: rgb(240 240 238 / 98%);
+}
+
+.item div.card-header {
+      border-bottom: 1px solid #9da3ab;
+}
+
+.item div.card-footer {
+      border-top: 1px solid #9da3ab;
+}

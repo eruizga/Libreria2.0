@@ -1,0 +1,15 @@
+#footer {
+      text-align: center;
+      color: white;
+ }
+
+#footer .container {
+      background: #A3A3A3;
+      background-repeat: no-repeat;
+      background-size: 60px;
+      background-position-x: 200px;
+      background-position-y: 10px;
+      height: 80px;
+      align-items: center;
+      display: grid;
+  }
